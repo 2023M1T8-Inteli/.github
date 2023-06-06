@@ -12,7 +12,7 @@ Gameficar conteúdos de treinamentos e políticas organizacionais, tornando a le
 
 Funcionários da cia.
 
-## 💻 Solução de alto desempenho usando grafos:
+## 💻 Desenvolvimento de jogo digital:
 
 - Grupo 1 - V.tech - As Aventuras de Fibrinha
   - Link do repositório: https://github.com/2023M1T8-Inteli/grupo1
